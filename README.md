@@ -1,2 +1,1 @@
-# Chat-GPT-Discord-Bot
-The unofficial Chat GPT Discord Bot
+This is a very simple chat gpt bot anyone can make with a discord developer account and a open ai key. Both of which are free! If you wanted to add your own flavor to the bot, add some parameters that make it talk like a cowboy or maybe your favorite president.
