@@ -24,7 +24,7 @@ async def on_message(message):
     if message.channel.name == client.user:
         return
 
-    if message.channel.name == 'boy-kisser':
+    if message.channel.name == 'Chat GPT':
         response = openai.Completion.create(
                 model="text-davinci-003",
                 prompt=user_message,
